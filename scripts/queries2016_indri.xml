@@ -1,0 +1,1207 @@
+<parameters>
+<count>1000</count>
+<index>/clueweb12b/indri/index</index>
+<runID>baselineIndri</runID>
+<threads>8</threads>
+<trecFormat>true</trecFormat>
+	<query>
+		<id>101001</id>
+		<text>#combine(inguinal hernia repair laparoscopic mesh benefits risks)</text>
+	</query>
+	<query>
+		<id>101002</id>
+		<text>#combine(inguinal hernia laparoscopic mesh surgery)</text>
+	</query>
+	<query>
+		<id>101003</id>
+		<text>#combine(inguinal hernia success rate)</text>
+	</query>
+	<query>
+		<id>101004</id>
+		<text>#combine(inguinal hernia surgery or surgical complications)</text>
+	</query>
+	<query>
+		<id>101005</id>
+		<text>#combine(inguinal hernia laparoscopic with mesh surgery reviews)</text>
+	</query>
+	<query>
+		<id>101006</id>
+		<text>#combine(inguinal hernia surgery story  is it safe )</text>
+	</query>
+	<query>
+		<id>102001</id>
+		<text>#combine(anal Tag removal options)</text>
+	</query>
+	<query>
+		<id>102002</id>
+		<text>#combine(anal skin tag removal pain)</text>
+	</query>
+	<query>
+		<id>102003</id>
+		<text>#combine(skin tag remove)</text>
+	</query>
+	<query>
+		<id>102004</id>
+		<text>#combine(anal skin tags removal or treatments recovery)</text>
+	</query>
+	<query>
+		<id>102005</id>
+		<text>#combine(do I need general anaesthetic for anal skin tag removal)</text>
+	</query>
+	<query>
+		<id>102006</id>
+		<text>#combine(is it safe to have anal skin tags removed by doctor with lidocaine)</text>
+	</query>
+	<query>
+		<id>103001</id>
+		<text>#combine(headaches relieved by blood donation)</text>
+	</query>
+	<query>
+		<id>103002</id>
+		<text>#combine(high iron headache)</text>
+	</query>
+	<query>
+		<id>103003</id>
+		<text>#combine(blood donation headache reduction)</text>
+	</query>
+	<query>
+		<id>103004</id>
+		<text>#combine(headaches caused by too much blood or  1 high blood pressure )</text>
+	</query>
+	<query>
+		<id>103005</id>
+		<text>#combine(headache that only goes away with blood loss)</text>
+	</query>
+	<query>
+		<id>103006</id>
+		<text>#combine(what causes strong headaches at base of skull  stops with blood donation)</text>
+	</query>
+	<query>
+		<id>104001</id>
+		<text>#combine(uncontrollable cough post infection lying down)</text>
+	</query>
+	<query>
+		<id>104002</id>
+		<text>#combine(coughing laying down)</text>
+	</query>
+	<query>
+		<id>104003</id>
+		<text>#combine(lay down cough)</text>
+	</query>
+	<query>
+		<id>104004</id>
+		<text>#combine(violent coughing caused by  1 lying down  or sleeping)</text>
+	</query>
+	<query>
+		<id>104005</id>
+		<text>#combine(rasping  painful cough when i lay down)</text>
+	</query>
+	<query>
+		<id>104006</id>
+		<text>#combine(infection with runny nose chest pain and cough   can it cause me not to sleep )</text>
+	</query>
+	<query>
+		<id>105001</id>
+		<text>#combine(high water intake constant thirst causes)</text>
+	</query>
+	<query>
+		<id>105002</id>
+		<text>#combine(effects drinking too much water)</text>
+	</query>
+	<query>
+		<id>105003</id>
+		<text>#combine(diabetes)</text>
+	</query>
+	<query>
+		<id>105004</id>
+		<text>#combine(water intoxication symptoms)</text>
+	</query>
+	<query>
+		<id>105005</id>
+		<text>#combine(how much water per day can i drink safely)</text>
+	</query>
+	<query>
+		<id>105006</id>
+		<text>#combine(can drinking too much water be bad for you )</text>
+	</query>
+	<query>
+		<id>106001</id>
+		<text>#combine(lethargy insomnia vitamin supplements risks)</text>
+	</query>
+	<query>
+		<id>106002</id>
+		<text>#combine(natural supplement energy waking up)</text>
+	</query>
+	<query>
+		<id>106003</id>
+		<text>#combine(5 Hour Energy alternative)</text>
+	</query>
+	<query>
+		<id>106004</id>
+		<text>#combine(natural cures for lifelong insomnia)</text>
+	</query>
+	<query>
+		<id>106005</id>
+		<text>#combine(natural supplement that works like 5 Hour Energy)</text>
+	</query>
+	<query>
+		<id>106006</id>
+		<text>#combine(natural supplement to help with anxiety)</text>
+	</query>
+	<query>
+		<id>107001</id>
+		<text>#combine(irregular period coughing up blood)</text>
+	</query>
+	<query>
+		<id>107002</id>
+		<text>#combine(coughing up dark blood)</text>
+	</query>
+	<query>
+		<id>107003</id>
+		<text>#combine(menstruation cough)</text>
+	</query>
+	<query>
+		<id>107004</id>
+		<text>#combine(menstruation or period causes the coughing up of blood)</text>
+	</query>
+	<query>
+		<id>107005</id>
+		<text>#combine(coughing up blood ONLY during menstruation)</text>
+	</query>
+	<query>
+		<id>107006</id>
+		<text>#combine(coughing up blood during menstruation  can it be caused by abortion )</text>
+	</query>
+	<query>
+		<id>108001</id>
+		<text>#combine(low Thyroid slow metabolism medication alternatives)</text>
+	</query>
+	<query>
+		<id>108002</id>
+		<text>#combine(depression thyroid medication)</text>
+	</query>
+	<query>
+		<id>108003</id>
+		<text>#combine(slow metabolism causes)</text>
+	</query>
+	<query>
+		<id>108004</id>
+		<text>#combine(thyroid problem or condition causes  1 weight gain  or obesity metabolism)</text>
+	</query>
+	<query>
+		<id>108005</id>
+		<text>#combine(medication for thyroid for young people)</text>
+	</query>
+	<query>
+		<id>108006</id>
+		<text>#combine(low metabolism from thyroid problem   what medication can I use )</text>
+	</query>
+	<query>
+		<id>109001</id>
+		<text>#combine(white pimple like thing  dialysis patient)</text>
+	</query>
+	<query>
+		<id>109002</id>
+		<text>#combine(hard white lump  beside eye)</text>
+	</query>
+	<query>
+		<id>109003</id>
+		<text>#combine(skin irregularities)</text>
+	</query>
+	<query>
+		<id>109004</id>
+		<text>#combine(hard white pimple on face)</text>
+	</query>
+	<query>
+		<id>109005</id>
+		<text>#combine(white pimple like spot that wont pop and isn t soft)</text>
+	</query>
+	<query>
+		<id>109006</id>
+		<text>#combine(small pimple next to eye  on peritoneal dialysis)</text>
+	</query>
+	<query>
+		<id>110001</id>
+		<text>#combine(severe Fibromyalgia hard to manage treatment option)</text>
+	</query>
+	<query>
+		<id>110002</id>
+		<text>#combine(fibromyalgia pain medication)</text>
+	</query>
+	<query>
+		<id>110003</id>
+		<text>#combine(knee hip shoulder neck pain)</text>
+	</query>
+	<query>
+		<id>110004</id>
+		<text>#combine(pain relief for fibromyalgia)</text>
+	</query>
+	<query>
+		<id>110005</id>
+		<text>#combine(ways to relieve unrelenting pain not using opiates)</text>
+	</query>
+	<query>
+		<id>110006</id>
+		<text>#combine(how to relieve pain from Fibromyalgia  natural cures)</text>
+	</query>
+	<query>
+		<id>111001</id>
+		<text>#combine(thyroid Storm Signs symptoms when to act)</text>
+	</query>
+	<query>
+		<id>111002</id>
+		<text>#combine(thyroid palpitations anxiety emergency)</text>
+	</query>
+	<query>
+		<id>111003</id>
+		<text>#combine(thyroid storm)</text>
+	</query>
+	<query>
+		<id>111004</id>
+		<text>#combine(TSH or thyroid or  1 thyroid storm  life threatening or  1 life threatening  or fatal or emergency)</text>
+	</query>
+	<query>
+		<id>111005</id>
+		<text>#combine(TSH 0 04 go to hospital )</text>
+	</query>
+	<query>
+		<id>111006</id>
+		<text>#combine(thyroid issues   elevated resting pulse  heart palps  a fluttering chest  and body ache  should I get an endocrinologist)</text>
+	</query>
+	<query>
+		<id>112001</id>
+		<text>#combine(organ Donor facts vs myth)</text>
+	</query>
+	<query>
+		<id>112002</id>
+		<text>#combine(will doctors not treat you if you are an organ donor)</text>
+	</query>
+	<query>
+		<id>112003</id>
+		<text>#combine(organ donor risks)</text>
+	</query>
+	<query>
+		<id>112004</id>
+		<text>#combine(dangers or risks of being an  1 organ donor )</text>
+	</query>
+	<query>
+		<id>112005</id>
+		<text>#combine(myth that doctors or surgeons will do less to keep you alive if you are an organ donor )</text>
+	</query>
+	<query>
+		<id>112006</id>
+		<text>#combine(do doctors want you to die in surgery if you are an organ donor)</text>
+	</query>
+	<query>
+		<id>113001</id>
+		<text>#combine(abdominal pain after eating boated flatulent blood in stool)</text>
+	</query>
+	<query>
+		<id>113002</id>
+		<text>#combine(travel diarrhoea pain treatment)</text>
+	</query>
+	<query>
+		<id>113003</id>
+		<text>#combine(stopped bowel movement stomach top pain)</text>
+	</query>
+	<query>
+		<id>113004</id>
+		<text>#combine(causes of bloating flatulence soft stools with blood)</text>
+	</query>
+	<query>
+		<id>113005</id>
+		<text>#combine(heavily bloated  flatulent  and my stools are often very soft with a little bright red blood after i eat)</text>
+	</query>
+	<query>
+		<id>113006</id>
+		<text>#combine(what causes severe abdominal pain when I eat  history of gastrointestinal discomfort )</text>
+	</query>
+	<query>
+		<id>114001</id>
+		<text>#combine(sprain ankle no pain slight bruising healing time)</text>
+	</query>
+	<query>
+		<id>114002</id>
+		<text>#combine(rolled ankle recovery time after lapidus bunionectomy)</text>
+	</query>
+	<query>
+		<id>114003</id>
+		<text>#combine(rolled ankle healing time)</text>
+	</query>
+	<query>
+		<id>114004</id>
+		<text>#combine(rolled ankle stiff walking boot healing time)</text>
+	</query>
+	<query>
+		<id>114005</id>
+		<text>#combine(rolled ankle with lapidus bunionectomy recovery time)</text>
+	</query>
+	<query>
+		<id>114006</id>
+		<text>#combine(how long does it take for a rolled ankle to recover)</text>
+	</query>
+	<query>
+		<id>115001</id>
+		<text>#combine(bell s palsy signs symptoms causes)</text>
+	</query>
+	<query>
+		<id>115002</id>
+		<text>#combine(how can you catch herpes)</text>
+	</query>
+	<query>
+		<id>115003</id>
+		<text>#combine(herpes transmission)</text>
+	</query>
+	<query>
+		<id>115004</id>
+		<text>#combine(can you catch herpes without having sex )</text>
+	</query>
+	<query>
+		<id>115005</id>
+		<text>#combine(given herpes drugs for Bell s Palsy but don t have herpes)</text>
+	</query>
+	<query>
+		<id>115006</id>
+		<text>#combine(does having Bell s Palsy mean that I have herpes )</text>
+	</query>
+	<query>
+		<id>116001</id>
+		<text>#combine(anal bleeding risks causes)</text>
+	</query>
+	<query>
+		<id>116002</id>
+		<text>#combine(bacteremic anus cut)</text>
+	</query>
+	<query>
+		<id>116003</id>
+		<text>#combine(anus bleeding number two)</text>
+	</query>
+	<query>
+		<id>116004</id>
+		<text>#combine(bacteraemic or bacteremic caused by cut on anus)</text>
+	</query>
+	<query>
+		<id>116005</id>
+		<text>#combine(how does bacteremic occur when wiping anus)</text>
+	</query>
+	<query>
+		<id>116006</id>
+		<text>#combine(can you become bacteremic if anus bleeds when wiping )</text>
+	</query>
+	<query>
+		<id>117001</id>
+		<text>#combine(tylenol cold benylin extra strength combo risks)</text>
+	</query>
+	<query>
+		<id>117002</id>
+		<text>#combine(Benylin and Tylenol together)</text>
+	</query>
+	<query>
+		<id>117003</id>
+		<text>#combine(doctors near me)</text>
+	</query>
+	<query>
+		<id>117004</id>
+		<text>#combine(mixing drugs tylenol cold   flu benylin extra strength)</text>
+	</query>
+	<query>
+		<id>117005</id>
+		<text>#combine(can I take Tylenol Cold and Benylin at same time )</text>
+	</query>
+	<query>
+		<id>117006</id>
+		<text>#combine(can you take Tylenol Cold and Benylin at the same time )</text>
+	</query>
+	<query>
+		<id>118001</id>
+		<text>#combine(acute compartment syndrome treatment options)</text>
+	</query>
+	<query>
+		<id>118002</id>
+		<text>#combine(compartment syndrome treatment not surgery)</text>
+	</query>
+	<query>
+		<id>118003</id>
+		<text>#combine(acute compartment syndrome insurance)</text>
+	</query>
+	<query>
+		<id>118004</id>
+		<text>#combine( 1 acute compartment  syndrome treatments)</text>
+	</query>
+	<query>
+		<id>118005</id>
+		<text>#combine(pain killers stronger than oxycodone)</text>
+	</query>
+	<query>
+		<id>118006</id>
+		<text>#combine(how to fix acute compartment syndrome without surgery)</text>
+	</query>
+	<query>
+		<id>119001</id>
+		<text>#combine(use of anabolic steroids in muscular dystrophy patients)</text>
+	</query>
+	<query>
+		<id>119002</id>
+		<text>#combine(muscular dystrophy anabolic steroids)</text>
+	</query>
+	<query>
+		<id>119003</id>
+		<text>#combine(muscular dystrophy steroid)</text>
+	</query>
+	<query>
+		<id>119004</id>
+		<text>#combine(dystrophy or atrophy anabolic steroids)</text>
+	</query>
+	<query>
+		<id>119005</id>
+		<text>#combine(why are people who have muscular dystrophy and atrophies  not given something to counteract the muscle depleting properties  like anabolic steroids)</text>
+	</query>
+	<query>
+		<id>119006</id>
+		<text>#combine(why are people with muscular dystrophy not given anabolic steroids )</text>
+	</query>
+	<query>
+		<id>120001</id>
+		<text>#combine(hepatitis B screening blood test information infection)</text>
+	</query>
+	<query>
+		<id>120002</id>
+		<text>#combine(hepatitis b blood test error)</text>
+	</query>
+	<query>
+		<id>120003</id>
+		<text>#combine(blood test hepatitis b reactive)</text>
+	</query>
+	<query>
+		<id>120004</id>
+		<text>#combine(cold affects  1 blood test )</text>
+	</query>
+	<query>
+		<id>120005</id>
+		<text>#combine(can having a cold interfere with hep b test )</text>
+	</query>
+	<query>
+		<id>120006</id>
+		<text>#combine(can having a cold cause you to have hepatitis b  reactive blood test )</text>
+	</query>
+	<query>
+		<id>121001</id>
+		<text>#combine(toe numbness causes and recovery time)</text>
+	</query>
+	<query>
+		<id>121002</id>
+		<text>#combine(numb toe after being in boot)</text>
+	</query>
+	<query>
+		<id>121003</id>
+		<text>#combine(broken toe)</text>
+	</query>
+	<query>
+		<id>121004</id>
+		<text>#combine(shoes cause numbness blisters dangerous)</text>
+	</query>
+	<query>
+		<id>121005</id>
+		<text>#combine(combat boots gave me bumps  blisters and wax like feeling on pinky toe)</text>
+	</query>
+	<query>
+		<id>121006</id>
+		<text>#combine(what causes pinky toe numbness  tight shoes )</text>
+	</query>
+	<query>
+		<id>122001</id>
+		<text>#combine(abdominal pain left sided relieved by vomiting)</text>
+	</query>
+	<query>
+		<id>122002</id>
+		<text>#combine(child abdominal pain vomiting multiple times)</text>
+	</query>
+	<query>
+		<id>122003</id>
+		<text>#combine(infant abdominal pain vomiting)</text>
+	</query>
+	<query>
+		<id>122004</id>
+		<text>#combine(causes for abdominal pain in children)</text>
+	</query>
+	<query>
+		<id>122005</id>
+		<text>#combine(5 year olds abdominal pain cleared by doctors )</text>
+	</query>
+	<query>
+		<id>122006</id>
+		<text>#combine(abdominal pain  vomiting  pain near belly button  duplicated ureter)</text>
+	</query>
+	<query>
+		<id>123001</id>
+		<text>#combine(effexor side affects)</text>
+	</query>
+	<query>
+		<id>123002</id>
+		<text>#combine(effexor side effect balance)</text>
+	</query>
+	<query>
+		<id>123003</id>
+		<text>#combine(effexor side effect)</text>
+	</query>
+	<query>
+		<id>123004</id>
+		<text>#combine(effexor side effects)</text>
+	</query>
+	<query>
+		<id>123005</id>
+		<text>#combine(what causes dizzy Effexor side effects)</text>
+	</query>
+	<query>
+		<id>123006</id>
+		<text>#combine(what is side effect of SNRI medication  dizziness)</text>
+	</query>
+	<query>
+		<id>124001</id>
+		<text>#combine(Alzheimer s Disease Information)</text>
+	</query>
+	<query>
+		<id>124002</id>
+		<text>#combine(how does Alzheimer s disease cause death)</text>
+	</query>
+	<query>
+		<id>124003</id>
+		<text>#combine(alzheimer s cause of death)</text>
+	</query>
+	<query>
+		<id>124004</id>
+		<text>#combine(detailed look at how alzheimer s disease kills)</text>
+	</query>
+	<query>
+		<id>124005</id>
+		<text>#combine(explain dying from Alzheimer s Disease)</text>
+	</query>
+	<query>
+		<id>124006</id>
+		<text>#combine(what causes you to die when you have Alzheimer s Disease )</text>
+	</query>
+	<query>
+		<id>125001</id>
+		<text>#combine(thyroidectomy compensating weight loss)</text>
+	</query>
+	<query>
+		<id>125002</id>
+		<text>#combine(hemithyroidectomy weight loss)</text>
+	</query>
+	<query>
+		<id>125003</id>
+		<text>#combine(thyroid removal weight loss)</text>
+	</query>
+	<query>
+		<id>125004</id>
+		<text>#combine(thyroid can cause weight loss)</text>
+	</query>
+	<query>
+		<id>125005</id>
+		<text>#combine(had right side thyroid removed  now lost 8lbs in month)</text>
+	</query>
+	<query>
+		<id>125006</id>
+		<text>#combine(removal of thyroid cause loss of weight )</text>
+	</query>
+	<query>
+		<id>126001</id>
+		<text>#combine(female numbness hands toes fatigue)</text>
+	</query>
+	<query>
+		<id>126002</id>
+		<text>#combine(fatigue balance loss numbness feeling faint palpitations causes)</text>
+	</query>
+	<query>
+		<id>126003</id>
+		<text>#combine(cardiovascular issues)</text>
+	</query>
+	<query>
+		<id>126004</id>
+		<text>#combine(symptoms of cardiovascular disease)</text>
+	</query>
+	<query>
+		<id>126005</id>
+		<text>#combine(weird symptoms that doctor can t diagnose  alternative doctors )</text>
+	</query>
+	<query>
+		<id>126006</id>
+		<text>#combine(what causes numbness in fingers and toes whilst resting  shortness of breath  fatigue  loss of balance  muscle twitches  undeveloped lungs at birth)</text>
+	</query>
+	<query>
+		<id>127001</id>
+		<text>#combine(pneumonia risks concerns treatment options)</text>
+	</query>
+	<query>
+		<id>127002</id>
+		<text>#combine(causes of recurrent pneumonia)</text>
+	</query>
+	<query>
+		<id>127003</id>
+		<text>#combine(regular pneumonia)</text>
+	</query>
+	<query>
+		<id>127004</id>
+		<text>#combine(causes for recurring pneumonia)</text>
+	</query>
+	<query>
+		<id>127005</id>
+		<text>#combine(pneumonia 3 times within a year  Should I be concerned )</text>
+	</query>
+	<query>
+		<id>127006</id>
+		<text>#combine(reoccurring pneumonia  who to fix it)</text>
+	</query>
+	<query>
+		<id>128001</id>
+		<text>#combine(increase intelligence steroids diet vitamins)</text>
+	</query>
+	<query>
+		<id>128002</id>
+		<text>#combine(concentration better after mononucleosis)</text>
+	</query>
+	<query>
+		<id>128003</id>
+		<text>#combine(mental performance factors)</text>
+	</query>
+	<query>
+		<id>128004</id>
+		<text>#combine(mononucleosis makes you smarter)</text>
+	</query>
+	<query>
+		<id>128005</id>
+		<text>#combine(why did I perform better academically after mono )</text>
+	</query>
+	<query>
+		<id>128006</id>
+		<text>#combine(can getting mono help with your study skills  diet  caloric restriction  steroids  lack of anxiety )</text>
+	</query>
+	<query>
+		<id>129001</id>
+		<text>#combine(salt cravings increase thirst)</text>
+	</query>
+	<query>
+		<id>129002</id>
+		<text>#combine(depression and abdominal cramping)</text>
+	</query>
+	<query>
+		<id>129003</id>
+		<text>#combine(salt cravings)</text>
+	</query>
+	<query>
+		<id>129004</id>
+		<text>#combine(tourettes excessive sleeping salt cravings)</text>
+	</query>
+	<query>
+		<id>129005</id>
+		<text>#combine( 1 craving salt    AND  1 full body spasm   AND  1 need 12 hrs sleep   AND  can t maintain body temperature )</text>
+	</query>
+	<query>
+		<id>129006</id>
+		<text>#combine(what causing full body spasms)</text>
+	</query>
+	<query>
+		<id>130001</id>
+		<text>#combine(lower back pain blood in semen testicular pain)</text>
+	</query>
+	<query>
+		<id>130002</id>
+		<text>#combine(blood in semen)</text>
+	</query>
+	<query>
+		<id>130003</id>
+		<text>#combine(back trauma testicle)</text>
+	</query>
+	<query>
+		<id>130004</id>
+		<text>#combine(methocarbamol side effects)</text>
+	</query>
+	<query>
+		<id>130005</id>
+		<text>#combine(bloody semen  testicle swollen and sore back )</text>
+	</query>
+	<query>
+		<id>130006</id>
+		<text>#combine(causes of pain in lower right side  testicle swollen  pain in semen)</text>
+	</query>
+	<query>
+		<id>131001</id>
+		<text>#combine(biopsy HSV benign penile skin mild infiltration explained)</text>
+	</query>
+	<query>
+		<id>131002</id>
+		<text>#combine(penis lymphocytic infiltration marked nuclear crush artifact)</text>
+	</query>
+	<query>
+		<id>131003</id>
+		<text>#combine(benign penile skin showing mild lymphocytic infiltration with marked nuclear crush artifact)</text>
+	</query>
+	<query>
+		<id>131004</id>
+		<text>#combine(lymphocytic infiltration)</text>
+	</query>
+	<query>
+		<id>131005</id>
+		<text>#combine(what does benign penile skin showing mild lymphocytic infiltration with marked nuclear crush artifact mean )</text>
+	</query>
+	<query>
+		<id>131006</id>
+		<text>#combine(what does  Benign penile skin showing mild lymphocytic infiltration with marked nuclear crush artefact  mean for skin biopsy)</text>
+	</query>
+	<query>
+		<id>132001</id>
+		<text>#combine(pericarditis risk factor treatment options)</text>
+	</query>
+	<query>
+		<id>132002</id>
+		<text>#combine(pericarditis pain relief IV drug user)</text>
+	</query>
+	<query>
+		<id>132003</id>
+		<text>#combine(non addictive painkiller)</text>
+	</query>
+	<query>
+		<id>132004</id>
+		<text>#combine(natural ways to help you fall asleep)</text>
+	</query>
+	<query>
+		<id>132005</id>
+		<text>#combine(how to minimise chest  heart and back pain at home )</text>
+	</query>
+	<query>
+		<id>132006</id>
+		<text>#combine(natura remedies to help with Pericarditis)</text>
+	</query>
+	<query>
+		<id>133001</id>
+		<text>#combine(nausea vomiting IBS explained blood in poop)</text>
+	</query>
+	<query>
+		<id>133002</id>
+		<text>#combine(stomach pain  cramping  nausea  vomiting  diarrhea clonazepam hydroxyzine pamoate ranitidine)</text>
+	</query>
+	<query>
+		<id>133003</id>
+		<text>#combine(top gastroenterologists)</text>
+	</query>
+	<query>
+		<id>133004</id>
+		<text>#combine(IBS symptoms)</text>
+	</query>
+	<query>
+		<id>133005</id>
+		<text>#combine(symptoms worse than IBS but doctor says no)</text>
+	</query>
+	<query>
+		<id>133006</id>
+		<text>#combine(what causes stomach pains and cramps  nausea  vomiting  diarrhoea  is it related to IBS or something else )</text>
+	</query>
+	<query>
+		<id>134001</id>
+		<text>#combine(alcohol immediate hot headache nausea new)</text>
+	</query>
+	<query>
+		<id>134002</id>
+		<text>#combine(alcohol temperature headache nausea new onset)</text>
+	</query>
+	<query>
+		<id>134003</id>
+		<text>#combine(alcohol headache nausea)</text>
+	</query>
+	<query>
+		<id>134004</id>
+		<text>#combine(immediately feels sick after drinking alcohol)</text>
+	</query>
+	<query>
+		<id>134005</id>
+		<text>#combine(sick every time I drink alcohol)</text>
+	</query>
+	<query>
+		<id>134006</id>
+		<text>#combine(feeling sick immediately altering drinking alcohol at age of 21)</text>
+	</query>
+	<query>
+		<id>135001</id>
+		<text>#combine(female hypertension blinding headaches double vision causes)</text>
+	</query>
+	<query>
+		<id>135002</id>
+		<text>#combine(hypertension young female causes and treatment)</text>
+	</query>
+	<query>
+		<id>135003</id>
+		<text>#combine(hypertension)</text>
+	</query>
+	<query>
+		<id>135004</id>
+		<text>#combine(hypertension symptoms)</text>
+	</query>
+	<query>
+		<id>135005</id>
+		<text>#combine(hypertension been cleared by doctor  what next )</text>
+	</query>
+	<query>
+		<id>135006</id>
+		<text>#combine(how to fix Hypertension symptoms  medication  tests)</text>
+	</query>
+	<query>
+		<id>136001</id>
+		<text>#combine(severe hypertension correct management)</text>
+	</query>
+	<query>
+		<id>136002</id>
+		<text>#combine(reducing very high blood pressure quickly)</text>
+	</query>
+	<query>
+		<id>136003</id>
+		<text>#combine(sudden drop high blood high pressure)</text>
+	</query>
+	<query>
+		<id>136004</id>
+		<text>#combine(dangers of lowering blood pressure too quickly to a normal level)</text>
+	</query>
+	<query>
+		<id>136005</id>
+		<text>#combine(why PO and not IV med  What does it matter if blood pressure drops into more normal range )</text>
+	</query>
+	<query>
+		<id>136006</id>
+		<text>#combine(what happens if you drop blood pressure quickly for person with history of strokes )</text>
+	</query>
+	<query>
+		<id>137001</id>
+		<text>#combine(child lethargy high CRP swollen lymph nodes pain after eating)</text>
+	</query>
+	<query>
+		<id>137002</id>
+		<text>#combine(child high TSH low iron recurrent infections)</text>
+	</query>
+	<query>
+		<id>137003</id>
+		<text>#combine(swollen lymph glands bloating low energy levels stomach pain)</text>
+	</query>
+	<query>
+		<id>137004</id>
+		<text>#combine(causes for low glucose or iron)</text>
+	</query>
+	<query>
+		<id>137005</id>
+		<text>#combine(lethargic  swollen lymph glands  bloating after eating  5 yr old )</text>
+	</query>
+	<query>
+		<id>137006</id>
+		<text>#combine(5 year old girl  persistent lethargy  stolen lymph glands  pain in stomach  reduced appetite  bloating after eating  hives  what causes this )</text>
+	</query>
+	<query>
+		<id>138001</id>
+		<text>#combine(young female with constant chest pain clear chest x ray shoulder right arm)</text>
+	</query>
+	<query>
+		<id>138002</id>
+		<text>#combine(heavy chest pain young female causes)</text>
+	</query>
+	<query>
+		<id>138003</id>
+		<text>#combine(cough chest pain)</text>
+	</query>
+	<query>
+		<id>138004</id>
+		<text>#combine(side effects of pariet or rabeprazole)</text>
+	</query>
+	<query>
+		<id>138005</id>
+		<text>#combine(chest pain still persistent even after taking pariet)</text>
+	</query>
+	<query>
+		<id>138006</id>
+		<text>#combine(chest pain  on Australian PPI medication  pain close to heart)</text>
+	</query>
+	<query>
+		<id>139001</id>
+		<text>#combine(liver blood tests explained)</text>
+	</query>
+	<query>
+		<id>139002</id>
+		<text>#combine(causes of mild elevation in ALT)</text>
+	</query>
+	<query>
+		<id>139003</id>
+		<text>#combine(ALT result analysis)</text>
+	</query>
+	<query>
+		<id>139004</id>
+		<text>#combine(high ALT readings that cause irreversible damage)</text>
+	</query>
+	<query>
+		<id>139005</id>
+		<text>#combine(ALT 112 severity)</text>
+	</query>
+	<query>
+		<id>139006</id>
+		<text>#combine(high levels of ALT  112   age of 28 and alcohol drinker   do i need to stop drinking )</text>
+	</query>
+	<query>
+		<id>140001</id>
+		<text>#combine(blood in semen prostrate trauma)</text>
+	</query>
+	<query>
+		<id>140002</id>
+		<text>#combine(blood in semen bike riding)</text>
+	</query>
+	<query>
+		<id>140003</id>
+		<text>#combine(blood in semen from bike)</text>
+	</query>
+	<query>
+		<id>140004</id>
+		<text>#combine(causes of blood in semen)</text>
+	</query>
+	<query>
+		<id>140005</id>
+		<text>#combine(blood in semen for about a week with no other symptoms )</text>
+	</query>
+	<query>
+		<id>140006</id>
+		<text>#combine(what causes blood in semen  occurring for 1 week)</text>
+	</query>
+	<query>
+		<id>141001</id>
+		<text>#combine(Nasal Drip treatment options)</text>
+	</query>
+	<query>
+		<id>141002</id>
+		<text>#combine(chronic nose congestion treatment)</text>
+	</query>
+	<query>
+		<id>141003</id>
+		<text>#combine(congested nose)</text>
+	</query>
+	<query>
+		<id>141004</id>
+		<text>#combine(how to get rid of nasal drip or  1 runny nose )</text>
+	</query>
+	<query>
+		<id>141005</id>
+		<text>#combine(persistent nasal drip of 2 years)</text>
+	</query>
+	<query>
+		<id>141006</id>
+		<text>#combine(how to get ride of nasal drip)</text>
+	</query>
+	<query>
+		<id>142001</id>
+		<text>#combine(post menopausal bleeding from nipple)</text>
+	</query>
+	<query>
+		<id>142002</id>
+		<text>#combine(bloody nipple discharge)</text>
+	</query>
+	<query>
+		<id>142003</id>
+		<text>#combine(nipple dried blood fluid)</text>
+	</query>
+	<query>
+		<id>142004</id>
+		<text>#combine(side effects of hysterectomy breast or nipple discharge hormonal imbalance)</text>
+	</query>
+	<query>
+		<id>142005</id>
+		<text>#combine(bleeding and discharge from right nipple with small clot  can it be benign )</text>
+	</query>
+	<query>
+		<id>142006</id>
+		<text>#combine(what can cause bleeding and discharge from right breast nipple  nipple piercing removal)</text>
+	</query>
+	<query>
+		<id>143001</id>
+		<text>#combine(long term PPI use risks and side affects)</text>
+	</query>
+	<query>
+		<id>143002</id>
+		<text>#combine(long term omeprazole side effects)</text>
+	</query>
+	<query>
+		<id>143003</id>
+		<text>#combine(omeprazole symptoms)</text>
+	</query>
+	<query>
+		<id>143004</id>
+		<text>#combine(dangers of long term PPI or Omeprazole use)</text>
+	</query>
+	<query>
+		<id>143005</id>
+		<text>#combine(impact of long term PPI use )</text>
+	</query>
+	<query>
+		<id>143006</id>
+		<text>#combine(what are the effects of long term use of Omeprazole)</text>
+	</query>
+	<query>
+		<id>144001</id>
+		<text>#combine(raised White blood cell count in urine no symptoms of infection)</text>
+	</query>
+	<query>
+		<id>144002</id>
+		<text>#combine(white blood cells in urine no infection)</text>
+	</query>
+	<query>
+		<id>144003</id>
+		<text>#combine(uti)</text>
+	</query>
+	<query>
+		<id>144004</id>
+		<text>#combine(causes of white blood cells being found in urine)</text>
+	</query>
+	<query>
+		<id>144005</id>
+		<text>#combine(what causes white blood cells in urine without infection )</text>
+	</query>
+	<query>
+		<id>144006</id>
+		<text>#combine(what causes white blood cells in urine   5 year old child)</text>
+	</query>
+	<query>
+		<id>145001</id>
+		<text>#combine(guillain barre syndrome patient information disease course)</text>
+	</query>
+	<query>
+		<id>145002</id>
+		<text>#combine(Guillain Barre Syndrome)</text>
+	</query>
+	<query>
+		<id>145003</id>
+		<text>#combine(guillain barre syndrome)</text>
+	</query>
+	<query>
+		<id>145004</id>
+		<text>#combine(guillain barre syndrome symptoms)</text>
+	</query>
+	<query>
+		<id>145005</id>
+		<text>#combine(what Guillain Barre Syndrome entails)</text>
+	</query>
+	<query>
+		<id>145006</id>
+		<text>#combine(what are symptoms of Guillain Barre syndrome )</text>
+	</query>
+	<query>
+		<id>146001</id>
+		<text>#combine(swollen testicle sore back nausea vomiting fever)</text>
+	</query>
+	<query>
+		<id>146002</id>
+		<text>#combine(swollen sore testical  pain  vomiting)</text>
+	</query>
+	<query>
+		<id>146003</id>
+		<text>#combine(scrotal swelling sore back abdominal pain nausea slow)</text>
+	</query>
+	<query>
+		<id>146004</id>
+		<text>#combine(hydrocele symptoms)</text>
+	</query>
+	<query>
+		<id>146005</id>
+		<text>#combine(scrotal swelling  sore back and abdominal pain  hydrocele )</text>
+	</query>
+	<query>
+		<id>146006</id>
+		<text>#combine(what causes a swollen testicle and a sore back  abdominal pain  nausea  vomiting   can this be a hydrocele )</text>
+	</query>
+	<query>
+		<id>147001</id>
+		<text>#combine(throat infection sore throat irritated eyes treatment options)</text>
+	</query>
+	<query>
+		<id>147002</id>
+		<text>#combine(constant sore throat causes and treatment)</text>
+	</query>
+	<query>
+		<id>147003</id>
+		<text>#combine(head throat eye pain)</text>
+	</query>
+	<query>
+		<id>147004</id>
+		<text>#combine(viral throat infection symptoms)</text>
+	</query>
+	<query>
+		<id>147005</id>
+		<text>#combine(pain in throat and head and red eyes  viral throat infection )</text>
+	</query>
+	<query>
+		<id>147006</id>
+		<text>#combine(what pain in throat  irritated eyes  headaches   more than a viral infection )</text>
+	</query>
+	<query>
+		<id>148001</id>
+		<text>#combine(Pain Medication chronic pain opiate restriction explain)</text>
+	</query>
+	<query>
+		<id>148002</id>
+		<text>#combine(chances of being prescribed opioids)</text>
+	</query>
+	<query>
+		<id>148003</id>
+		<text>#combine(prescribing opiates doctor)</text>
+	</query>
+	<query>
+		<id>148004</id>
+		<text>#combine(why aren t doctors happy to prescribe opiates )</text>
+	</query>
+	<query>
+		<id>148005</id>
+		<text>#combine(why is it hard to get pain medication )</text>
+	</query>
+	<query>
+		<id>148006</id>
+		<text>#combine(why doctors are reluctant to give out pain medication)</text>
+	</query>
+	<query>
+		<id>149001</id>
+		<text>#combine(vision change blurred spot risks signs symptoms)</text>
+	</query>
+	<query>
+		<id>149002</id>
+		<text>#combine(headache and visual changes)</text>
+	</query>
+	<query>
+		<id>149003</id>
+		<text>#combine(eye blurry patch tears)</text>
+	</query>
+	<query>
+		<id>149004</id>
+		<text>#combine(migraine symptoms)</text>
+	</query>
+	<query>
+		<id>149005</id>
+		<text>#combine(sudden Blurry Spot in Vision from tears)</text>
+	</query>
+	<query>
+		<id>149006</id>
+		<text>#combine(what causes blurry spot in vision below centre of focus  elongated patch  family history of muscular degeneration)</text>
+	</query>
+	<query>
+		<id>150001</id>
+		<text>#combine(painful erection following foley catheter worsening)</text>
+	</query>
+	<query>
+		<id>150002</id>
+		<text>#combine(painful erection after catheter)</text>
+	</query>
+	<query>
+		<id>150003</id>
+		<text>#combine(foley catheter bruising)</text>
+	</query>
+	<query>
+		<id>150004</id>
+		<text>#combine(pain from foley catheter bruising only occurs when penis is erect)</text>
+	</query>
+	<query>
+		<id>150005</id>
+		<text>#combine(painful erections a month after having a Foley Catheter)</text>
+	</query>
+	<query>
+		<id>150006</id>
+		<text>#combine(what causes painful erections after have a foley catheter)</text>
+	</query>
+</parameters>
