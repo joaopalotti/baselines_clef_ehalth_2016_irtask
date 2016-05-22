@@ -1,0 +1,207 @@
+<parameters>
+<count>1000</count>
+<index>/clueweb12b/indri/index</index>
+<runID>baselineIndri</runID>
+<threads>8</threads>
+<trecFormat>true</trecFormat>
+	<query>
+		<id>101</id>
+		<text> inguinal hernia repair laparoscopic mesh benefits risks inguinal hernia laparoscopic mesh surgery inguinal hernia success rate inguinal hernia surgery or surgical complications inguinal hernia laparoscopic with mesh surgery reviews inguinal hernia surgery story  is it safe    title  </text>
+	</query>
+	<query>
+		<id>102</id>
+		<text> anal Tag removal options anal skin tag removal pain skin tag remove anal skin tags removal or treatments recovery do I need general anaesthetic for anal skin tag removal is it safe to have anal skin tags removed by doctor with lidocaine </text>
+	</query>
+	<query>
+		<id>103</id>
+		<text> headaches relieved by blood donation high iron headache blood donation headache reduction headaches caused by too much blood or high blood pressure headache that only goes away with blood loss what causes strong headaches at base of skull  stops with blood donation </text>
+	</query>
+	<query>
+		<id>104</id>
+		<text> uncontrollable cough post infection lying down coughing laying down lay down cough violent coughing caused by lying down or sleeping rasping  painful cough when i lay down infection with runny nose chest pain and cough   can it cause me not to sleep  </text>
+	</query>
+	<query>
+		<id>105</id>
+		<text> high water intake constant thirst causes effects drinking too much water diabetes water intoxication symptoms how much water per day can i drink safely can drinking too much water be bad for you  </text>
+	</query>
+	<query>
+		<id>106</id>
+		<text> lethargy insomnia vitamin supplements risks natural supplement energy waking up 5 Hour Energy alternative natural cures for lifelong insomnia natural supplement that works like 5 Hour Energy natural supplement to help with anxiety </text>
+	</query>
+	<query>
+		<id>107</id>
+		<text> irregular period coughing up blood coughing up dark blood menstruation cough menstruation or period causes the coughing up of blood coughing up blood ONLY during menstruation coughing up blood during menstruation  can it be caused by abortion  </text>
+	</query>
+	<query>
+		<id>108</id>
+		<text> low Thyroid slow metabolism medication alternatives depression thyroid medication slow metabolism causes thyroid problem or condition causes weight gain or obesity metabolism medication for thyroid for young people low metabolism from thyroid problem   what medication can I use  </text>
+	</query>
+	<query>
+		<id>109</id>
+		<text> white pimple like thing  dialysis patient hard white lump  beside eye skin irregularities hard white pimple on face white pimple like spot that wont pop and isn t soft small pimple next to eye  on peritoneal dialysis </text>
+	</query>
+	<query>
+		<id>110</id>
+		<text> severe Fibromyalgia hard to manage treatment option fibromyalgia pain medication knee hip shoulder neck pain pain relief for fibromyalgia ways to relieve unrelenting pain not using opiates how to relieve pain from Fibromyalgia  natural cures </text>
+	</query>
+	<query>
+		<id>111</id>
+		<text> thyroid Storm Signs symptoms when to act thyroid palpitations anxiety emergency thyroid storm TSH or thyroid or thyroid storm life threatening or life threatening or fatal or emergency TSH 0 04 go to hospital   thyroid issues   elevated resting pulse  heart palps  a fluttering chest  and body ache  should I get an endocrinologist </text>
+	</query>
+	<query>
+		<id>112</id>
+		<text> organ Donor facts vs myth will doctors not treat you if you are an organ donor organ donor risks dangers or risks of being an organ donor myth that doctors or surgeons will do less to keep you alive if you are an organ donor   do doctors want you to die in surgery if you are an organ donor </text>
+	</query>
+	<query>
+		<id>113</id>
+		<text> abdominal pain after eating boated flatulent blood in stool travel diarrhoea pain treatment stopped bowel movement stomach top pain causes of bloating flatulence soft stools with blood heavily bloated  flatulent  and my stools are often very soft with a little bright red blood after i eat what causes severe abdominal pain when I eat  history of gastrointestinal discomfort  </text>
+	</query>
+	<query>
+		<id>114</id>
+		<text> sprain ankle no pain slight bruising healing time rolled ankle recovery time after lapidus bunionectomy rolled ankle healing time rolled ankle stiff walking boot healing time rolled ankle with lapidus bunionectomy recovery time how long does it take for a rolled ankle to recover </text>
+	</query>
+	<query>
+		<id>115</id>
+		<text> bell s palsy signs symptoms causes how can you catch herpes herpes transmission can you catch herpes without having sex   given herpes drugs for Bell s Palsy but don t have herpes does having Bell s Palsy mean that I have herpes  </text>
+	</query>
+	<query>
+		<id>116</id>
+		<text> anal bleeding risks causes bacteremic anus cut anus bleeding number two bacteraemic or bacteremic caused by cut on anus how does bacteremic occur when wiping anus can you become bacteremic if anus bleeds when wiping  </text>
+	</query>
+	<query>
+		<id>117</id>
+		<text> tylenol cold benylin extra strength combo risks Benylin and Tylenol together doctors near me mixing drugs tylenol cold   flu benylin extra strength can I take Tylenol Cold and Benylin at same time   can you take Tylenol Cold and Benylin at the same time  </text>
+	</query>
+	<query>
+		<id>118</id>
+		<text> acute compartment syndrome treatment options compartment syndrome treatment not surgery acute compartment syndrome insurance acute compartment syndrome treatments pain killers stronger than oxycodone how to fix acute compartment syndrome without surgery </text>
+	</query>
+	<query>
+		<id>119</id>
+		<text> use of anabolic steroids in muscular dystrophy patients muscular dystrophy anabolic steroids muscular dystrophy steroid dystrophy or atrophy anabolic steroids why are people who have muscular dystrophy and atrophies  not given something to counteract the muscle depleting properties  like anabolic steroids why are people with muscular dystrophy not given anabolic steroids  </text>
+	</query>
+	<query>
+		<id>120</id>
+		<text> hepatitis B screening blood test information infection hepatitis b blood test error blood test hepatitis b reactive cold affects blood test can having a cold interfere with hep b test   can having a cold cause you to have hepatitis b  reactive blood test  </text>
+	</query>
+	<query>
+		<id>121</id>
+		<text> toe numbness causes and recovery time numb toe after being in boot broken toe shoes cause numbness blisters dangerous combat boots gave me bumps  blisters and wax like feeling on pinky toe what causes pinky toe numbness  tight shoes  </text>
+	</query>
+	<query>
+		<id>122</id>
+		<text> abdominal pain left sided relieved by vomiting child abdominal pain vomiting multiple times infant abdominal pain vomiting causes for abdominal pain in children 5 year olds abdominal pain cleared by doctors   abdominal pain  vomiting  pain near belly button  duplicated ureter </text>
+	</query>
+	<query>
+		<id>123</id>
+		<text> effexor side affects effexor side effect balance effexor side effect effexor side effects what causes dizzy Effexor side effects what is side effect of SNRI medication  dizziness </text>
+	</query>
+	<query>
+		<id>124</id>
+		<text> Alzheimer s Disease Information how does Alzheimer s disease cause death alzheimer s cause of death detailed look at how alzheimer s disease kills explain dying from Alzheimer s Disease what causes you to die when you have Alzheimer s Disease  </text>
+	</query>
+	<query>
+		<id>125</id>
+		<text> thyroidectomy compensating weight loss hemithyroidectomy weight loss thyroid removal weight loss thyroid can cause weight loss had right side thyroid removed  now lost 8lbs in month removal of thyroid cause loss of weight  </text>
+	</query>
+	<query>
+		<id>126</id>
+		<text> female numbness hands toes fatigue fatigue balance loss numbness feeling faint palpitations causes cardiovascular issues symptoms of cardiovascular disease weird symptoms that doctor can t diagnose  alternative doctors   what causes numbness in fingers and toes whilst resting  shortness of breath  fatigue  loss of balance  muscle twitches  undeveloped lungs at birth </text>
+	</query>
+	<query>
+		<id>127</id>
+		<text> pneumonia risks concerns treatment options causes of recurrent pneumonia regular pneumonia causes for recurring pneumonia pneumonia 3 times within a year  Should I be concerned   reoccurring pneumonia  who to fix it </text>
+	</query>
+	<query>
+		<id>128</id>
+		<text> increase intelligence steroids diet vitamins concentration better after mononucleosis mental performance factors mononucleosis makes you smarter why did I perform better academically after mono   can getting mono help with your study skills  diet  caloric restriction  steroids  lack of anxiety  </text>
+	</query>
+	<query>
+		<id>129</id>
+		<text> salt cravings increase thirst depression and abdominal cramping salt cravings tourettes excessive sleeping salt cravings craving salt   AND full body spasm  AND need 12 hrs sleep  AND  can t maintain body temperature  what causing full body spasms </text>
+	</query>
+	<query>
+		<id>130</id>
+		<text> lower back pain blood in semen testicular pain blood in semen back trauma testicle methocarbamol side effects bloody semen  testicle swollen and sore back   causes of pain in lower right side  testicle swollen  pain in semen </text>
+	</query>
+	<query>
+		<id>131</id>
+		<text> biopsy HSV benign penile skin mild infiltration explained penis lymphocytic infiltration marked nuclear crush artifact benign penile skin showing mild lymphocytic infiltration with marked nuclear crush artifact lymphocytic infiltration what does benign penile skin showing mild lymphocytic infiltration with marked nuclear crush artifact mean   what does  Benign penile skin showing mild lymphocytic infiltration with marked nuclear crush artefact  mean for skin biopsy </text>
+	</query>
+	<query>
+		<id>132</id>
+		<text> pericarditis risk factor treatment options pericarditis pain relief IV drug user non addictive painkiller natural ways to help you fall asleep how to minimise chest  heart and back pain at home   natura remedies to help with Pericarditis </text>
+	</query>
+	<query>
+		<id>133</id>
+		<text> nausea vomiting IBS explained blood in poop stomach pain  cramping  nausea  vomiting  diarrhea clonazepam hydroxyzine pamoate ranitidine top gastroenterologists IBS symptoms symptoms worse than IBS but doctor says no what causes stomach pains and cramps  nausea  vomiting  diarrhoea  is it related to IBS or something else  </text>
+	</query>
+	<query>
+		<id>134</id>
+		<text> alcohol immediate hot headache nausea new alcohol temperature headache nausea new onset alcohol headache nausea immediately feels sick after drinking alcohol sick every time I drink alcohol feeling sick immediately altering drinking alcohol at age of 21 </text>
+	</query>
+	<query>
+		<id>135</id>
+		<text> female hypertension blinding headaches double vision causes hypertension young female causes and treatment hypertension hypertension symptoms hypertension been cleared by doctor  what next   how to fix Hypertension symptoms  medication  tests </text>
+	</query>
+	<query>
+		<id>136</id>
+		<text> severe hypertension correct management reducing very high blood pressure quickly sudden drop high blood high pressure dangers of lowering blood pressure too quickly to a normal level why PO and not IV med  What does it matter if blood pressure drops into more normal range   what happens if you drop blood pressure quickly for person with history of strokes  </text>
+	</query>
+	<query>
+		<id>137</id>
+		<text> child lethargy high CRP swollen lymph nodes pain after eating child high TSH low iron recurrent infections swollen lymph glands bloating low energy levels stomach pain causes for low glucose or iron lethargic  swollen lymph glands  bloating after eating  5 yr old   5 year old girl  persistent lethargy  stolen lymph glands  pain in stomach  reduced appetite  bloating after eating  hives  what causes this  </text>
+	</query>
+	<query>
+		<id>138</id>
+		<text> young female with constant chest pain clear chest x ray shoulder right arm heavy chest pain young female causes cough chest pain side effects of pariet or rabeprazole chest pain still persistent even after taking pariet chest pain  on Australian PPI medication  pain close to heart </text>
+	</query>
+	<query>
+		<id>139</id>
+		<text> liver blood tests explained causes of mild elevation in ALT ALT result analysis high ALT readings that cause irreversible damage ALT 112 severity high levels of ALT  112   age of 28 and alcohol drinker   do i need to stop drinking  </text>
+	</query>
+	<query>
+		<id>140</id>
+		<text> blood in semen prostrate trauma blood in semen bike riding blood in semen from bike causes of blood in semen blood in semen for about a week with no other symptoms   what causes blood in semen  occurring for 1 week </text>
+	</query>
+	<query>
+		<id>141</id>
+		<text> Nasal Drip treatment options chronic nose congestion treatment congested nose how to get rid of nasal drip or runny nose persistent nasal drip of 2 years how to get ride of nasal drip </text>
+	</query>
+	<query>
+		<id>142</id>
+		<text> post menopausal bleeding from nipple bloody nipple discharge nipple dried blood fluid side effects of hysterectomy breast or nipple discharge hormonal imbalance bleeding and discharge from right nipple with small clot  can it be benign   what can cause bleeding and discharge from right breast nipple  nipple piercing removal </text>
+	</query>
+	<query>
+		<id>143</id>
+		<text> long term PPI use risks and side affects long term omeprazole side effects omeprazole symptoms dangers of long term PPI or Omeprazole use impact of long term PPI use   what are the effects of long term use of Omeprazole </text>
+	</query>
+	<query>
+		<id>144</id>
+		<text> raised White blood cell count in urine no symptoms of infection white blood cells in urine no infection uti causes of white blood cells being found in urine what causes white blood cells in urine without infection   what causes white blood cells in urine   5 year old child </text>
+	</query>
+	<query>
+		<id>145</id>
+		<text> guillain barre syndrome patient information disease course Guillain Barre Syndrome guillain barre syndrome guillain barre syndrome symptoms what Guillain Barre Syndrome entails what are symptoms of Guillain Barre syndrome  </text>
+	</query>
+	<query>
+		<id>146</id>
+		<text> swollen testicle sore back nausea vomiting fever swollen sore testical  pain  vomiting scrotal swelling sore back abdominal pain nausea slow hydrocele symptoms scrotal swelling  sore back and abdominal pain  hydrocele   what causes a swollen testicle and a sore back  abdominal pain  nausea  vomiting   can this be a hydrocele  </text>
+	</query>
+	<query>
+		<id>147</id>
+		<text> throat infection sore throat irritated eyes treatment options constant sore throat causes and treatment head throat eye pain viral throat infection symptoms pain in throat and head and red eyes  viral throat infection   what pain in throat  irritated eyes  headaches   more than a viral infection  </text>
+	</query>
+	<query>
+		<id>148</id>
+		<text> Pain Medication chronic pain opiate restriction explain chances of being prescribed opioids prescribing opiates doctor why aren t doctors happy to prescribe opiates   why is it hard to get pain medication   why doctors are reluctant to give out pain medication </text>
+	</query>
+	<query>
+		<id>149</id>
+		<text> vision change blurred spot risks signs symptoms headache and visual changes eye blurry patch tears migraine symptoms sudden Blurry Spot in Vision from tears what causes blurry spot in vision below centre of focus  elongated patch  family history of muscular degeneration </text>
+	</query>
+	<query>
+		<id>150</id>
+		<text> painful erection following foley catheter worsening painful erection after catheter foley catheter bruising pain from foley catheter bruising only occurs when penis is erect painful erections a month after having a Foley Catheter what causes painful erections after have a foley catheter </text>
+	</query>
+</parameters>
