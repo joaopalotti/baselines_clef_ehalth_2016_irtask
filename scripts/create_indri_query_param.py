@@ -5,7 +5,7 @@ if len(sys.argv) < 2:
     print "Usage: python create_indri_query_param.py <path to queries2016.xml>"
     sys.exit(0)
 
-use_indri_query_language = False
+use_indri_query_language = True
 
 def process_phrase(m):
     s = m.group("exp")[1:-1] # remove the first and last chars as they are "'s
