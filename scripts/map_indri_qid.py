@@ -10,10 +10,11 @@ inputrun = sys.argv[1]
 id_map = {}
 qid_base = 100
 for i in range(0,300):
-    if i % 6 == 0:
+    variable = i % 6
+    if variable == 0:
         qid_base += 1
 
-    new_id = "%s%03d" % (str(qid_base), ((i+1) % 7))
+    new_id = "%s%03d" % (str(qid_base), variable + 1)
     id_map[str(i)] = new_id
 
 with open(inputrun, "r") as f:
